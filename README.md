@@ -43,7 +43,7 @@ Artificial Intelligence & Multi-Agent Engine\
 --Google Gemini API: Powers the interactive AI conversational assistant (`gemini-1.5-flash`) with dynamic, profile-aware contextual prompting.\
 
 Instructions:\
-In the terminal of app.py type "python -m streamlit app.py"
+In the terminal of app.py type "python -m pip install fastapi uvicorn streamlit pandas pydantic requests yfinance nsepython plotly google-generativeai" then type "python -m streamlit app.py"
 
 Team Members\
 --Abishek S Ashok\
