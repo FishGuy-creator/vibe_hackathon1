@@ -535,7 +535,7 @@ st.divider()
 # ==========================================
 # 6. INLINE AI CONVERSATION POPUP (EXPANDABLE)
 # ==========================================
-GEMINI_API_KEY = "AQ.Ab8RN6KNYglGBAXRPBQKBPEiOJVFaiD2rSpa6MDBejA-1fL7yg"
+GEMINI_API_KEY = "AQ.Ab8RN6JME8p-i25PRbmrBbAmRd8iwc_hln-ibTWZ-4Gqiq0ryA"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-3.6-flash")
 
